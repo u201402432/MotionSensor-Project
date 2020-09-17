@@ -18,7 +18,7 @@ R언어에 있는 scatterplot3d 라이브러리를 이용하여 3차원 좌표�
 는 방법으로, 방위를 나타내는 Orientation Sensor의 Z축에 대한 값과 X축에 대한 값을 사용하였다.
 Orientation의 Z값은 모바일이 가리키는 방위를 측정 값으로 갖는다. 북쪽을 가리킬 때 0, 남쪽을
 가리킬 때 180을 가지게 된다. 즉, 0에서 360사이의 값을 가지게 되는 것이다.
-https://github.com/u201402432/Project--MotionSensor/issues/2#issue-703237576
+![2](https://user-images.githubusercontent.com/68365881/93417111-32fd9b80-f8e2-11ea-811e-04269a086d97.png)
 
 3) 안드로이드 어플리케이션을 사용하여 수집한 모션 데이터를 자바 프로그램의 입력 값으로 넣
 어 모션을 시각화한 이미지를 얻는다. 그리고 생성한 이미지를 28 x 28 사이즈로 만들어 텐서플로우를
